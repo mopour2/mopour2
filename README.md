@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mohammad Reza Pour Emad
-- 
 - An expert Hardware/Software designer with a full understanding of the
 paradigms in Artificial Intelligence and Machine Learning .
 The main projects :
