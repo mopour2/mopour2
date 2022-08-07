@@ -12,3 +12,9 @@ Answer Machine Programing
 Automated Biometric Identification Systems
 My current interest are utilizing IoT, Data mining 
 
+I have 4 PATENTS
+
+Intelligent, Talking Refrigerator With the Ability of Ordering Food Stuffs Automatically via Telephone, SMS And Email
+Construction of a cutting and Targeting DNA System Using GAMA and X-Ray in Electromagnetic Field
+Intelligent Robot Equipped with Neuro-Sensory System With learning ability
+A new Computerized Method for Controlling the Attendance Entry and Exit of individuals
