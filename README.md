@@ -8,6 +8,7 @@ Design and Implementation of Health Monitoring Devices based on IoT technologies
 Answer Machine Programing
 Automated Biometric Identification Systems
 My current interest are utilizing IoT, Data mining 
+
 I have 4 Patents
 1- Intelligent, Talking Refrigerator With the Ability of Ordering Food Stuffs Automatically via Telephone, SMS And Email
 2- Construction of a cutting and Targeting DNA System Using GAMA and X-Ray in Electromagnetic Field
